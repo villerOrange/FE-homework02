@@ -90,3 +90,10 @@ form div button {
 .text:focus {
     border: 1px solid #FFE44D;
 }
+
+button p {
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+text-align: left;
+}
